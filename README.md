@@ -3,7 +3,7 @@
 ![logo](media/logo.png)
 
 ## Documentation
-You can find all necessary information in documentation.html
+You can find all necessary information in the documentation folder
 
 ## How to run 
 Tested on Ubuntu 18.04
