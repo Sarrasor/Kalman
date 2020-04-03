@@ -26,7 +26,7 @@ make
 ```
 
 ## References
-Idea and parts of code are taken from [CarND-Extended-Kalman-Filter-Project](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project)
-Simulator can be found here [self-driving-car-sim](https://github.com/udacity/self-driving-car-sim)
-Notation is taken from [Linear-Control-Slides-Spring-2020](https://github.com/SergeiSa/Linear-Control-Slides-Spring-2020)
-Written with [StackEdit](https://stackedit.io/).
+Idea and parts of code are taken from [CarND-Extended-Kalman-Filter-Project](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project) \
+Simulator can be found here [self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) \
+Notation is taken from [Linear-Control-Slides-Spring-2020](https://github.com/SergeiSa/Linear-Control-Slides-Spring-2020) \
+Written with [StackEdit](https://stackedit.io/)
