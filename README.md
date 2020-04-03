@@ -1,5 +1,7 @@
 # Kalman filters
 
+![logo](media/logo.png)
+
 ## Documentation
 You can find all necessary information in documentation.pdf
 
