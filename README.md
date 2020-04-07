@@ -4,6 +4,7 @@
 
 ## Documentation
 You can find all necessary information in the documentation folder
+Check the html page [here](https://htmlpreview.github.io/?https://github.com/Sarrasor/Kalman/blob/master/documentation/documentation.html).
 
 ## How to run 
 Tested on Ubuntu 18.04
