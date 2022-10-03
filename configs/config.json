@@ -1,0 +1,15 @@
+{
+	"lidar_noise_std": [
+		0.05,
+		0.05
+	],
+	"radar_noise_std": [
+		0.1,
+		0.1,
+		0.1
+	],
+	"max_acceleration": [
+		2.0,
+		2.0
+	]
+}

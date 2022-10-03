@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+  cpp_workspace:
+    build:
+      dockerfile: Dockerfile
+      context: .
+    command: sleep infinity
+    container_name: cpp_workspace
+    volumes:
+      - .:/workspace:delegated
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+    environment:
+      - DISPLAY=$DISPLAY
